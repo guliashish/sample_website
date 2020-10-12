@@ -76,3 +76,16 @@ padding: 0px auto;
     bottom:0px;
     z-index: 1;
 }
+
+.modal-header {
+    background: #512da8;
+    color:floralwhite;
+}
+
+.modal-body {
+    background: #d1c4e9;
+}
+
+.modal-header,.close {
+    color: white;
+}
